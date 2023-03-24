@@ -6,7 +6,7 @@ Full Stack Developer and Continuous Learner
 I am passionate about web development and 3D in web. I have worked as a software developer professionally for the past 3+ years 👨‍💻. Say Hi to collaborate and connect with me! 🤝
 <br>
 <br> 
-* 🎓  I'm a Camputer Science Graduate Student
+* 🎓  I'm a Computer Science Graduate Student
 * 🧠  Currently learning Machine Learning and improving on web development 
 * 🤝  I'm open to collaborating
 * 📫  Reach me on [Twitter](https://twitter.com/bsampada_) or through my [website](https://www.sampada.dev/)
