@@ -16,7 +16,7 @@ I am passionate about web development and 3D in web. I have worked as a software
 <br>
 
 <p align = "left">
- <a href="http://www.github.com/BoseSj"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BoseSj&show_icons=true&theme=dark&line_height=29&hide=stars" alt="BoseSj's GitHub stats" />
+ <a href="http://www.github.com/BoseSj"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sampada04&show_icons=true&theme=dark&line_height=29&hide=stars" alt="Sampada04's GitHub stats" />
  </a>
 </p> 
 
