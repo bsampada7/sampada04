@@ -1,4 +1,4 @@
-# Hi there <img src="./Assets/Hi.gif" width="50" height="50"/>
+## Hi there <img src="./Assets/Hi.gif" width="50" height="50"/>
 
 Full Stack Developer and Continuous Learner
  ---------------------------------
