@@ -1,4 +1,5 @@
 ### Hi there <img src="./Assets/Hi.gif" width="30" height="30"/>
+I am a full stack developer who has worked professionally with multiple technologies such as React.js, Laravel, Three.js etc. Check out my [website](https://www.sampada.dev/)
 
 Full Stack Developer and Continuous Learner
  ---------------------------------
@@ -7,7 +8,7 @@ I am passionate about web development and 3D in web. I have worked as a software
 <br>
 <br> 
 * 🎓  I'm a Computer Science Graduate Student
-* 🧠  Currently learning Machine Learning and improving on web development 
+* 🧠  Currently improving on web development and learning machine learning
 * 🤝  I'm open to collaborating
 * 📫  Reach me on [Twitter](https://twitter.com/bsampada_) or through my [website](https://www.sampada.dev/)
 * 🍵  I don't drink coffee :shushing_face: 
